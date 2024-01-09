@@ -1,6 +1,6 @@
 ---
 title: Processing uploads on the server
-weight: 3
+weight: 3hjkhjkkj
 ---
 
 All Blade, Vue and React components communicate with the server in the same way. After a user selects one or more files, they're immediately sent to the server and stored as temporary uploads. When the parent form is submitted, the media items can be attached to a model.
